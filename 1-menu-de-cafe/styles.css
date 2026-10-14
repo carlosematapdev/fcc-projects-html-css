@@ -61,3 +61,28 @@ hr {
     margin: 5px 0;
     font-size: 18px;
 }
+
+/*FOOTER:*/
+footer {
+    font-size: 14px;
+}
+
+address {
+    font-style: normal;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
